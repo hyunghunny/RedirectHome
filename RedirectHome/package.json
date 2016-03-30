@@ -1,0 +1,10 @@
+﻿{
+  "name": "RedirectHome",
+  "version": "0.0.0",
+  "description": "RedirectHome",
+  "main": "server.js",
+  "author": {
+    "name": "형헌",
+    "email": ""
+  }
+}
